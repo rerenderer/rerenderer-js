@@ -1,0 +1,8 @@
+{
+  "name": "rerenderer",
+  "version": "0.0.1",
+  "description": "js/jsx binding for rerenderer",
+  "main": "index.js",
+  "author": "Vladimir Iakovlev <nvbn.rm@gmail.com>",
+  "license": "MIT"
+}
